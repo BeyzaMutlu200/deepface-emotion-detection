@@ -16,4 +16,4 @@ This script uses DeepFace and OpenCV to detect faces and their dominant emotions
 1. Make sure your webcam is connected.
 2. Run the script:
 
-python facial_expression.py
+- `python facial_expression.py`
